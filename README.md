@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 <samp>
-Software Engineer at <a href="https://www.turntabl.io">Turntabl GH</a>.<br> Lead, Python Community Cape Coast and a fellow of the Python Software Foundation(PSF).<br>I'm always up for learning new things!<br><br> 
+Software Engineer at <a href="https://www.shellrecharge.com">Shell Recharge </a>.<br> Lead, Python User Group Ghana and a fellow of the Python Software Foundation(PSF).<br>I'm always up for learning new things!<br><br> 
 </samp>
 <br>
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=FrancisBilla&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy' alt='FrancisBilla github stats'>
